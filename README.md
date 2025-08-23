@@ -35,8 +35,7 @@
 ---
 
 ## 📫 Connect with me
-- [LinkedIn](https://linkedin.com/in/yourusername)  
-- [Portfolio Website](https://yourwebsite.com)  
-- [Email](mailto:youremail@gmail.com)  
+- [LinkedIn]([https://linkedin.com/in/sharayu310/])   
+- [Email](mailto:sharayuyeole38@gmail.com)  
 
 ✨ _“Code is like humor. When you have to explain it, it’s bad.”_ ✨
