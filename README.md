@@ -8,7 +8,7 @@
 
 ## 🔧 Technologies & Tools
 - **Frontend:** React, JavaScript, HTML, CSS  
-- **Backend:** Java, Spring Boot, REST APIs, Microservices  
+- **Backend:** Java, Spring Boot, REST APIs, Microservices, Node.js
 - **Database:** MySQL, PostgreSQL  
 - **DevOps & Tools:** Git, GitHub, Docker, Jenkins (learning)  
 - **Other Skills:** Data Structures & Algorithms, System Design  
