@@ -10,7 +10,7 @@
 - **Frontend:** React, JavaScript, HTML, CSS  
 - **Backend:** Java, Spring Boot, REST APIs, Microservices, Node.js
 - **Database:** MySQL, PostgreSQL  
-- **DevOps & Tools:** Git, GitHub, Docker, Jenkins (learning)  
+- **DevOps & Tools:** Git, GitHub, Docker, Jenkins (learning), CI/CD, AWS, Kubernetes
 - **Other Skills:** Data Structures & Algorithms, System Design  
 
 ---
