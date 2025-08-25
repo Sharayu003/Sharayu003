@@ -2,7 +2,8 @@
 
 💻 Full Stack Developer (Java | Spring Boot | React | MERN | MySQL | REST APIs)
 
-🚀 Passionate about building scalable web applications and solving real-world problems through clean code and modern technologies.  
+I am a passionate Full Stack Developer skilled in both Java Spring Boot (Java, MySQL, REST APIs) and MERN stack (MongoDB, Express.js, React.js, Node.js).
+
 
 
 ---
