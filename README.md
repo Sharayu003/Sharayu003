@@ -4,6 +4,33 @@
 
 🚀 Passionate about building scalable web applications and solving real-world problems through clean code and modern technologies.  
 
+
+---
+
+## 📌 Featured Projects
+
+### 🔥 Java + Spring Boot
+- [Student Management System](https://github.com/Sharayu003/Student-Management)  
+  *CRUD app with Spring Boot, MySQL, Thymeleaf (deployed on Heroku)*  
+- [Payment Service](https://github.com/Sharayu003/Payment_Service)  
+  *Microservice handling transactions with Spring Boot*  
+- [Product Service](https://github.com/Sharayu003/product_service)  
+  *RESTful microservice for product catalog*
+
+---
+
+### 🌐 MERN Stack
+- [MERN E-Commerce Store](https://github.com/Sharayu003/Mern-E-Commerce-Store)  
+  *Full e-commerce platform with JWT Auth, Cart & Checkout*  
+- [MERN Blog](https://github.com/Sharayu003/mern-blog)  
+  *Blog platform with authentication, protected routes, CRUD posts*
+
+---
+
+### 🛠️ Other Projects
+- [CRUD SpringBoot Project](https://github.com/Sharayu003/Crud_SpringBoot_Project)  
+- [Currency Converter (Java)](https://github.com/Sharayu003/Currency-Converter)
+
 ---
 
 ## 🔧 Technologies & Tools
@@ -12,18 +39,6 @@
 - **Database:** MySQL, PostgreSQL  
 - **DevOps & Tools:** Git, GitHub, Docker, Jenkins (learning), CI/CD, AWS, Kubernetes
 - **Other Skills:** Data Structures & Algorithms, System Design  
-
----
-
-## 📌 Featured Projects
-- 🛒 **[E-Commerce App](https://github.com/yourusername/ecommerce-app)**  
-  Full-stack app with product listings, cart, checkout & authentication.  
-
-- 🎓 **[Student Management System](https://github.com/yourusername/student-management-system)**  
-  Manage students, courses & faculty with CRUD APIs.  
-
-- 📊 **[Finance Tracker](https://github.com/yourusername/finance-tracker)**  
-  Track expenses & income with analytics dashboard.  
 
 ---
 
