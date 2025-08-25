@@ -1,6 +1,6 @@
 # Hi there, I'm Sharayu 👋  
 
-💻 **Full Stack Developer (Java | Spring Boot | React | MERN | MySQL | REST APIs)  **  
+💻 Full Stack Developer (Java | Spring Boot | React | MERN | MySQL | REST APIs)
 
 🚀 Passionate about building scalable web applications and solving real-world problems through clean code and modern technologies.  
 
