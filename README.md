@@ -11,7 +11,7 @@ I am a passionate Full Stack Developer skilled in both Java Spring Boot (Java, M
 ## 📌 Featured Projects
 
 ### 🔥 Java + Spring Boot
-- [Student Management System](https://github.com/Sharayu003/Student-Management)  
+- [Student Management System](https://github.com/Sharayu003/Student-Management-System)  
   *CRUD app with Spring Boot, MySQL, Thymeleaf*  
 - [Payment Service](https://github.com/Sharayu003/Payment_Service)  
   *Microservice handling transactions with Spring Boot*  
