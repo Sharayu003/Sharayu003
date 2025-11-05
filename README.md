@@ -12,10 +12,13 @@
 
 ---
 
-## 🛠️ Tech Stack  
+### 🛠️ Tech Stack  
 
-**Frontend:** HTML, CSS, JavaScript, React.js, Next.js  
-**Backend:** Spring Boot, Node.js, Express.js  
-**Database:** MySQL, MongoDB  
-**Tools:** Git, GitHub, Postman, IntelliJ IDEA, VS Code, Maven  
-**Other:** REST APIs, JWT Auth, API Integration, Deployment (Render / Vercel / Heroku)
+#### 🚀 Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
