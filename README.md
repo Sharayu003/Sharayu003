@@ -5,7 +5,8 @@
 
 ## 🚀 About Me  
 - 💡 Passionate about **building scalable web apps** with clean and maintainable code  
-- 💻 Skilled in both **Frontend (React, Next.js)** and **Backend (Spring Boot, Node.js)**  
+- 💻 Skilled in both **Frontend (React, Next.js)** and **Backend (Spring Boot, Node.js)**
+- 🗄️ Comfortable working with **MySQL** and **MongoDB** to **design reliable data layers**.
 - 🌱 Currently exploring **Microservices Architecture & Cloud Deployment**  
 - 🎯 Goal: Secure an **SDE-1 / Full-Stack Developer role** in a top tech company  
 - 📫 Reach me at: **sharayuyeole38@gmail.com**
