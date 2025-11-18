@@ -45,6 +45,8 @@
 A modern and responsive portfolio card built using **React.js**, showcasing clean UI and reusable components.  
 🔗 **Live Demo:** https://portfoliocard-git-main-sharayu-yeoles-projects.vercel.app/   
 📁 **GitHub Repo:** https://github.com/Sharayu003/Portfolio_card  
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/8e5a32e1-a5f0-4692-acd6-8eb4394990a6" />
+
 
 **Tech Used:**  
 `React` • `JavaScript` • `CSS` • `Vercel`
