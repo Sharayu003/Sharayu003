@@ -39,4 +39,13 @@
   <a href="https://github.com/sharayu003"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
+## 🧩 Projects  
+
+###  1. **Portfolio Card Project**
+A modern and responsive portfolio card built using **React.js**, showcasing clean UI and reusable components.  
+🔗 **Live Demo:** https://portfoliocard-git-main-sharayu-yeoles-projects.vercel.app/   
+📁 **GitHub Repo:** https://github.com/Sharayu003/Portfolio_card  
+
+**Tech Used:**  
+`React` • `JavaScript` • `CSS` • `Vercel`
 
