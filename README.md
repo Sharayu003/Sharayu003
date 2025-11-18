@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sharayu Yeole  
-💻 Full-Stack Developer |⚛️ React | ⚡ Next.js | 🎯 JavaScript | ☕ Java | 🌱 Spring Boot | 🟢 Node.js | 🗄️ MySQL | 🍃 MongoDB | 🌐 REST APIs
+💻 Full-Stack Developer | ⚛️ React | ⚡ Next.js | 🎯 JavaScript | ☕ Java | 🌱 Spring Boot | 🟢 Node.js | 🗄️ MySQL | 🍃 MongoDB | 🌐 REST APIs
 
 ---
 
