@@ -51,3 +51,9 @@ A modern and responsive portfolio card built using **React.js**, showcasing clea
 **Tech Used:**  
 `React` • `JavaScript` • `CSS` • `Vercel`
 
+###  1. **Counter-App**
+A simple and interactive Counter Application built using React.js, demonstrating state management with hooks and clean component structure. This project showcases how React handles dynamic updates, user interactions, and component re-rendering efficiently.
+🔗 **Live Demo:** https://assignment-2-counter-application.netlify.app/
+📁 **GitHub Repo:** https://github.com/Sharayu003/Counter-app/tree/master
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/28994a1f-77d6-46c0-a156-586c97266466" />
+
